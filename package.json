@@ -1,0 +1,20 @@
+{
+  "name": "testexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.9.25",
+    "nodemon": "^2.0.4"
+  }
+}
